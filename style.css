@@ -83,7 +83,7 @@ header nav ul li a:hover{
 
 #main-image{
 	height: 580px; 
-	background-image: url(../images/main.jpg);
+	background-image: url(../main.jpg);
 	background-size: cover;
 }
 #main-image h2{
