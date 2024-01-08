@@ -58,7 +58,7 @@
  	<section id="possibilities">
  		<div class="wrapper">
 
- 			<article style="background-image: url(images/article-image-1.jpg);">
+ 			<article style="background-image: url(article-image-1.jpg);">
  				<div class="overlay">
  					<h4>partez en famille</h4>
  					<p><small>Offrez le meilleur à ceux que vous aimez et partagez des moments fabuleux !</small></p>
@@ -66,7 +66,7 @@
  				</div>
  			</article>
 
- 			<article style="background-image: url(images/article-image-2.jpg);">
+ 			<article style="background-image: url(article-image-2.jpg);">
  				<div class="overlay">
  					<h4>Envie de s'evader</h4>
  					<p><small>Parfois un peu d'évasion serait le bienvenue et ferait le plus grand bien !</small></p>
